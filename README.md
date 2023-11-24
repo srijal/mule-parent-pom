@@ -12,19 +12,19 @@
 - objectstore
 - sockets-connector
 
-## Mule Modules
+### Mule Modules
 - apikit
 - java
 - validation
 - xml
  
- ## Runtime
+ ### Runtime
 - app.runtime
 - mule.maven.plugin.version
 - munit.version
 - mule.weave.assertions
 
-## Available properties
+## Other available properties
 - mule-sftp-connector.version
 - mule-email-connector.version
 - mule-file-connector.version
