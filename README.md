@@ -16,7 +16,6 @@
 ## Mule Connectors
 - http-connector
 - objectstore
-- db-connector
 - sockets-connector
 
 ## Mule Modules
@@ -24,3 +23,16 @@
 - java
 - validation
 - xml
+ 
+ ## Runtime
+- app.runtime
+- mule.maven.plugin.version
+- munit.version
+- mule.weave.assertions
+
+## Available properties
+- mule-sftp-connector.version
+- mule-email-connector.version
+- mule-file-connector.version
+- mule-db-connector.version
+- mule-salesforce-connector.version
