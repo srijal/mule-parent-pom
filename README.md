@@ -1,4 +1,4 @@
-# mulesoft-artifact - Parent POM
+# mulesoft-artifact - parent pom
 
 ## Local setup
 - add server information on setings.xml
