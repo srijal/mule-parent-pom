@@ -1,6 +1,6 @@
 # mulesoft-artifact - Parent POM
 
-## local setup
+## Local setup
 - add server information on setings.xml
 -- <id>anypoint-exchange</id> 
 - Replace {Anypoint Org ID.} to your correct OrgID
