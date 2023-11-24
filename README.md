@@ -6,7 +6,7 @@
 - Replace {Anypoint Org ID.} to your correct OrgID
 
 
-## Supported 
+## Supports 
 ### Mule Connectors
 - http-connector
 - objectstore
